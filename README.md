@@ -41,7 +41,7 @@ yarn test
 - Website: https://www.linkedin.com/in/gomes-pedro/
 - Twitter: [@pgomesdev](https://twitter.com/pgomesdev)
 - Github: [@pgomesdev](https://github.com/pgomesdev)
-- LinkedIn: [@Pedro Gomes](https://linkedin.com/in/Pedro Gomes)
+- LinkedIn: [@Pedro Gomes](https://www.linkedin.com/in/gomes-pedro/)
 
 ## Show your support
 
